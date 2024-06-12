@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* 100vh = 100% of viewport height */
+    background-color: hsl(0, 0%, 8%);
+    margin: 3rem;
+}
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
