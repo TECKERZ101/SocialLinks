@@ -40,6 +40,12 @@ img {
     font-weight: 700;
 }
 
+.location {
+    margin-bottom: 1.625rem;
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+}
+
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
