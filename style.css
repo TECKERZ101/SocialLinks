@@ -6,6 +6,12 @@
     
 }
 
+@media (min-width: 25rem) {
+    .container {
+        width: 23.75rem;
+    }
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -14,6 +20,7 @@ body {
     min-height: 100vh; /* 100vh = 100% of viewport height */
     background-color: hsl(0, 0%, 8%);
     margin: 3rem;
+    color: hsl(0, 0%, 100%);
 }
 
 img {
@@ -77,6 +84,7 @@ button {
 }
 
 .attribution { 
+    font-family: Inter, sans-serif;
     font-size: 11px;
     text-align: center;
 }
