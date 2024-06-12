@@ -65,6 +65,11 @@ button {
     padding: 1rem;
 }
 
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
