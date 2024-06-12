@@ -31,6 +31,10 @@ img {
     padding: 2rem;
 }
 
+.profile {
+    text-align: center;
+}
+
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
