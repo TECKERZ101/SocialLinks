@@ -51,6 +51,16 @@ img {
     font-weight: 400;
 }
 
+button {
+    font-weight: 600;
+    border: none;
+    color: hsl(0, 0%, 100%);
+    border-radius: 7px;
+    background-color: hsl(0, 0%, 20%);
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
