@@ -46,6 +46,11 @@ img {
     font-weight: 600;
 }
 
+.about {
+    margin-bottom: 1.525rem;
+    font-weight: 400;
+}
+
 .attribution { 
     font-family: Lexend Deca;
     font-size: 11px; text-align: center;
